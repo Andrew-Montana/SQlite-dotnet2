@@ -1,0 +1,17 @@
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\bin\Debug\2 sqlite dotnet2.exe.config
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\bin\Debug\2 sqlite dotnet2.exe
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\bin\Debug\2 sqlite dotnet2.pdb
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\bin\Debug\System.Data.SQLite.dll
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\bin\Debug\System.Data.SQLite.xml
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\2 sqlite dotnet2.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\MainWindow.baml
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\App.g.cs
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\2 sqlite dotnet2_MarkupCompile.cache
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\2 sqlite dotnet2.g.resources
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\_2_sqlite_dotnet2.Properties.Resources.resources
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\2 sqlite dotnet2.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\2 sqlite dotnet2.exe
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\2 sqlite dotnet2.pdb
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\Window1.baml
+D:\Projects\Visual Studio\Programming Knowledge\WPF and SQLite\2 sqlite dotnet2\2 sqlite dotnet2\obj\Debug\Window1.g.cs
